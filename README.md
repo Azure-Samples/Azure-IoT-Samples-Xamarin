@@ -28,13 +28,9 @@ azuire-iot-samples-xamarin provides a set of easy-to-understand, samples for con
 - A real device (Android or iOS), or a device emulator. If you can't and you're on Windows 10, you can run the sample in your PC with the UWP version of the app.
 
 
-## Running the sample
+## Quickstart
 
-Outline step-by-step instructions to execute the sample and see its output. Include steps for executing the sample from the IDE, starting specific services in the Azure portal or anything related to the overall launch of the code.
-
-## Key concepts
-
-Provide users with more context on the tools and services used in the sample. Explain some of the code that is being used and how services interact with each other.
+- [Send Telemetry from Xamarin Forms apps](https://docs.microsoft.com/azure/iot-hub/quickstart-send-telemetry-xamarinforms?wt.mc_id=iotquickstart-github-chmaneu)
 
 
 ## Resources
